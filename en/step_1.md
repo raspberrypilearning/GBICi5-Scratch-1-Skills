@@ -6,6 +6,6 @@ Click on the green flag to begin to find out about a specific person with a care
 
 --- task ---
 
-<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/276872220/?autostart=false" frameborder="0" scrolling="no"></iframe>
+<iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/325787038/" frameborder="0" scrolling="no"></iframe>
 
 --- /task ---
